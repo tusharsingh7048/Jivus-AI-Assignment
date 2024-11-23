@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+.bg-gray-100{
+    color: black;
+}
+
+
+.text-sm{
+    color: black;
+}
